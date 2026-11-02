@@ -1,4 +1,4 @@
-git init# Strukdat-1-InventarisGudang
+# Strukdat-1-InventarisGudang
 
 Sistem inventaris gudang distributor bahan makanan & farmasi.
 Tugas Proyek Struktur Data - Kelompok 1 (Supply Chain & FMCG) - Fokus: FIFO & Expiry Date.
